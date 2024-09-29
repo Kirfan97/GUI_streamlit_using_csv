@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-data=pd.read_csv("F:/2_Coding/Python/Steamlit/GUI_streamlit_using_csv/2021_Cars_Aggregated.csv")
+data=pd.read_csv("2021_Cars_Aggregated.csv")
 
 
 
