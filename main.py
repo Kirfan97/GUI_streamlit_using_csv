@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-data=pd.read_csv("2021_Vans_Aggregated.csv")
+data=pd.read_csv("2021.Vans_Aggregated.csv")
 
 
 
